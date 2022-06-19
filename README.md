@@ -35,7 +35,7 @@ but you have the option of security, from people who might otherwise read your m
 !!!!IMPORTANT!!!!
 
 This code uses the vigenere cipher, which is only moderatly secure.
-Far more secure than a caeser cipher, but it doesn't take longer than the lifetime of the universe itself to crack like RSA.
+Far more secure than a caeser cipher, but it doesn't take longer than the lifetime of the universe to crack like RSA.
 Relativly secure, but not uncrackable.
 
 suitible for privacy from parents, spouses, teachers, uneducated authority figures, maybe underfunded police officers.

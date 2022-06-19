@@ -3,7 +3,9 @@ The idea here is that you get the encryption and decryption scripts on your desk
 you can compile them with pyinstaller if you like, or just run in terminal
 
 if you do use pyinstaller open terminal and run theses commands
+
 pyinstaller --onefile encryption.py
+
 pyinstaller --onefile decryption.py
 
 that should convert the python scripts into executible files, 

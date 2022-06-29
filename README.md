@@ -38,9 +38,6 @@ This code uses the vigenere cipher, which is only moderatly secure.
 Far more secure than a caeser cipher, but it doesn't take longer than the lifetime of the universe to crack like RSA.
 Relativly secure, but not uncrackable.
 
-suitible for privacy from parents, spouses, teachers, uneducated authority figures, maybe underfunded police officers.
-Not suitible for privacy from skilled cryptographers, the state, educated authority figures, or people who can afford to hire skilled cryptographers
-
 NOTE:
 
 longer keywords are harder to crack
